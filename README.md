@@ -8,7 +8,7 @@ So, here is the solution to your problem! :innocent:
 
 This is a very simple library which works with your sp and dp values for almost all Android devices. All you need to do is install this library into your project and call it with your sp (Example : 10sp) or dp (Example : 10dp). Once you specify this according to this libary, the layouts will automatically adjust itself according to the devices! :open_mouth:
 
-Don't believe me? Here is the screenshots on Android TV, Nexus 5x and Nexus One: :simple_smile:
+Don't believe me? Here is the screenshots on Android TV, Nexus 5x and Nexus One :relieved:
 
 ![Image](/screens.png)
 
