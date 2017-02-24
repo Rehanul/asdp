@@ -29,7 +29,7 @@ And it's done. Just give the dimensions as @dimen/_<your value>asdp and it will 
             android:layout_width="@dimen/_50asdp"
             android:layout_centerInParent="true"
             android:layout_margin="@dimen/_5asdp"
-            android:layout_height="@dimen/_50dp"
+            android:layout_height="@dimen/_50asdp"
             android:layout_gravity="center" />
 ```
 
