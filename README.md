@@ -2,6 +2,16 @@
 
 # ASDP - a scalable size unit by Adhish
 
+You must be developing app for that Android device in your pocket but wait, what happens when you try to run the same code on tablet or an Android mobile phone of different size or say an Android TV? Boom! The dimensions messes up. :tired_face:
+
+So, here is the solution to your problem! :innocent:
+
+This is a very simple library which works with your sp and dp values for almost all Android devices. All you need to do is install this library into your project and call it with your sp (Example : 10sp) or dp (Example : 10dp). Once you specify this according to this libary, the layouts will automatically adjust itself according to the devices! :open_mouth:
+
+Don't believe me? Here is the screenshots on Android TV, Nexus 5x and Nexus One: :simple_smile:
+
+![Image](/screens.png)
+
 ### Installing
 
 1) Add it in your root build.gradle at the end of repositories:
