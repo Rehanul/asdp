@@ -20,7 +20,7 @@
 	        compile 'com.github.adhishlal:asdp:1.0'
 	}
 ```
-And it's done. Just give the dimensions as @dimen/_<your value>asdp and it will take the sizes automatically!
+And it's done. Just give the dimensions as ````@dimen/_<your value>asdp```` and it will take the sizes automatically!
 
 ### Example
 ```
