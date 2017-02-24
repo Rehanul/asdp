@@ -17,7 +17,7 @@
 2) Step 2. Add the dependency
 ```
 	dependencies {
-	        compile 'com.github.adhishlal:GifLoader:1.1'
+	        compile 'com.github.adhishlal:asdp:1.0'
 	}
 ```
 And it's done. Just give the dimensions as @dimen/_<your value>asdp and it will take the sizes automatically!
